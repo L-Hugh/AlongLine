@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/media/hugh/HUGH/Code/RobotLab/AlongLine/build",
+  "command": "/usr/bin/g++-5    -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv  -g   -o CMakeFiles/AlongLine.dir/main.cpp.o -c /media/hugh/HUGH/Code/RobotLab/AlongLine/main.cpp",
+  "file": "/media/hugh/HUGH/Code/RobotLab/AlongLine/main.cpp"
+},
+{
+  "directory": "/media/hugh/HUGH/Code/RobotLab/AlongLine/build/LineProcess",
+  "command": "/usr/bin/g++-5     -g   -o CMakeFiles/LineProcess.dir/LineProcess.cpp.o -c /media/hugh/HUGH/Code/RobotLab/AlongLine/LineProcess/LineProcess.cpp",
+  "file": "/media/hugh/HUGH/Code/RobotLab/AlongLine/LineProcess/LineProcess.cpp"
+}
+]

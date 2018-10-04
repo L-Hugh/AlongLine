@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLineProcess.a  CMakeFiles/LineProcess.dir/LineProcess.cpp.o
+/usr/bin/ranlib libLineProcess.a

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/hugh/HUGH/Code/RobotLab/AlongLine/LineProcess/LineProcess.cpp
+LineProcess.h
+/media/hugh/HUGH/Code/RobotLab/AlongLine/LineProcess/LineProcess.h
+
+/media/hugh/HUGH/Code/RobotLab/AlongLine/LineProcess/LineProcess.h
+iostream
+-
+math.h
+-
+opencv2/opencv.hpp
+-
+
